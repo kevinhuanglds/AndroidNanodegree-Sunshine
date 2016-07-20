@@ -2,5 +2,8 @@
     <string name="app_name">Sunshine</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Today, June 24</string>
+    <string name="weather_status">Cloudy</string>
+    <string name="deg_F">21°</string>
+    <string name="deg_C">8°</string>
 </resources>
